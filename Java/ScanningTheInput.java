@@ -14,3 +14,11 @@ public class Main {
 }
 
 //Source: https://hyperskill.org/learn/step/3603
+//Additional:
+String line = scanner.nextLine(); // read a whole line, for example "Hello, Java"
+
+int num = scanner.nextInt(); // read a number, for example 123
+
+double d = scanner.nextDouble(); // read double, for example 123.01
+
+String string = scanner.next(); // read a string (not a line), for example "Hello"
